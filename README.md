@@ -4,6 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif" width="500"/>
 </p>
 
+--- 
+Video explicativo : https://youtu.be/LUmHe4MADCU
 ---
 
 ## 📌 **Sobre o Projeto**

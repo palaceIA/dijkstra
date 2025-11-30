@@ -1,7 +1,5 @@
 # 🧭 **Grafos Genéricos & Algoritmo de Dijkstra**
 
-### *Implementação Didática em Java*
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif" width="500"/>
 </p>
@@ -12,9 +10,9 @@
 
 Este projeto apresenta:
 
-✔️ Um modelo de **arestas com pesos**
-✔️ O clássico **Algoritmo de Dijkstra**, usado para calcular caminhos mínimos
-✔️ Uma função para **reconstrução do caminho**
+✔️ Um modelo de **arestas com pesos**  
+✔️ O clássico **Algoritmo de Dijkstra**, usado para calcular caminhos mínimos  
+✔️ Uma função para **reconstrução do caminho**  
 
 ---
 
@@ -80,3 +78,4 @@ Encontrar o **menor caminho** de um vértice inicial até todos os outros.
 Após rodar Dijkstra, reconstruímos o caminho usando o mapa `previous`, indo do destino até a origem — de trás para frente — e depois invertendo a lista.
 
 -----
+
